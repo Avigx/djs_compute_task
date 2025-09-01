@@ -4,7 +4,7 @@ UFC Fighters Data Analysis
 This project analyzes a dataset of UFC fighters from Kaggle.
 It focuses on cleaning, exploring, and visualizing fighter statistics such as wins, losses, height, reach, and stance.
 
-Dataset Source: Kaggle - UFC Fighters Statistics
+Dataset Source: https://www.kaggle.com/datasets/aaronfriasr/ufc-fighters-statistics
 
 Steps Performed
 
